@@ -1,0 +1,22 @@
+"inurl:login/admin.asp"  
+
+ "inurl:admin/login.asp" 
+
+"inurl:admin/login.aspx" 
+
+"inurl:adminlogin.asp"
+
+ "inurl:administratorlogin.asp" 
+
+ "inurl:administrator_login.asp"
+
+ "inurl: admin/login.php" 
+
+ "inurl: login/administrator.php" 
+
+ "inurl: administrator_login.php"
+
+
+
+for country top level domains (ccTLDs)
+https://en.wikipedia.org/wiki/Country_code_top-level_domain
